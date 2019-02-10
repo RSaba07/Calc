@@ -1,0 +1,59 @@
+
+.calctitle{ 
+  font-size:30px; 
+  border-radius: 25px;  
+  background: #fff; 
+  width: 230px;   
+  color:black;
+  white-space: nowrap;
+  
+} 
+.button {
+  display: block;
+  border-radius: 25px;  
+  background-color: black;
+}
+
+.answer {
+  height: 60px;
+  background-color:lightgrey;
+  border-radius: 25px;  
+  width: 100%;  
+}
+.answer p {
+  border-radius: 25px;  
+  font-size: 40px;  
+}
+
+.clearer
+{
+    background-color: orange;
+    border: none;
+    color:black;    
+}
+button {
+  height: 60px;
+  width: 25%;
+  border-radius: 100%;    
+  font-size: 25px; 
+  color:black
+}
+.pageLayout {
+  max-width: 230px;
+  margin: auto;
+  border-radius: 25px;    
+}
+.numbers
+{
+    background-color: rgb(225, 228, 255);
+    border: none;
+    color:black;
+}
+
+.operators
+{
+    background-color: #4CAF50; 
+    border: none;
+    color:black;    
+}
+
