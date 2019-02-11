@@ -15,4 +15,6 @@ To run the application on a local machine, clone first and then run
 npm install
 npm start
 
+Output:
+
 ![alt text](https://github.com/RSaba07/Calc/blob/master/Calculator.PNG)
